@@ -1,5 +1,6 @@
-# IR-Search-Engine
-Class final project - Information Retrieval 2021.
+## IR-Search-Engine
+Information Retrieval 2021- Class final project
 
 Created by Itay Aharony and Natali Dvash
-______________________________________________
+___________________________________________
+# 1. search frontend
